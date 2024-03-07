@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en">
    
       <body>
-      <Script
+      {/* <Script
           id="google-tag-manager"
           strategy="afterInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=G-6R57VFFHHS"
@@ -39,7 +39,7 @@ export default function RootLayout({
             `,
           }}
 
-        />
+        /> */}
       <Script id="customerio" type="text/javascript">
           {`
             var _cio = _cio || [];
