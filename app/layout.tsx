@@ -21,10 +21,10 @@ export default function RootLayout({
     <html lang="en">
    
       <body>
-      {/* <Script
+      <Script
           id="google-tag-manager"
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-6R57VFFHHS"
+          src="https://www.googletagmanager.com/gtag/js?id=G-FG7BJ32FSB"
           async
         />
         <Script
@@ -35,11 +35,12 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-6R57VFFHHS');
+              gtag('config', 'G-FG7BJ32FSB');
             `,
           }}
 
-        /> */}
+        />
+
       <Script id="customerio" type="text/javascript">
           {`
             var _cio = _cio || [];
