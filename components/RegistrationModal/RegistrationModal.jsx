@@ -218,6 +218,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange }) => {
             </h4>
           </div>
           <div className="reg-content">
+            
             <input
               className={`mb-3 ${error ? "error" : ""}`}
               type="email"
