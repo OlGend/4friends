@@ -280,7 +280,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange })=>{
                             onFocus: handleInputFocus
                         }, void 0, false, {
                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                            lineNumber: 221,
+                            lineNumber: 223,
                             columnNumber: 13
                         }, this),
                         error && /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"]("span", {
@@ -288,7 +288,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange })=>{
                             children: error
                         }, void 0, false, {
                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                            lineNumber: 229,
+                            lineNumber: 231,
                             columnNumber: 23
                         }, this),
                         /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"]("div", {
@@ -304,7 +304,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange })=>{
                                             className: "mr-2"
                                         }, void 0, false, {
                                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                                            lineNumber: 234,
+                                            lineNumber: 236,
                                             columnNumber: 17
                                         }, this),
                                         t("subscribe.agree"),
@@ -316,7 +316,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange })=>{
                                             children: t("subscribe.terms")
                                         }, void 0, false, {
                                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                                            lineNumber: 241,
+                                            lineNumber: 243,
                                             columnNumber: 17
                                         }, this),
                                         " ",
@@ -332,13 +332,13 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange })=>{
                                             ]
                                         }, void 0, true, {
                                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                                            lineNumber: 249,
+                                            lineNumber: 251,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                                    lineNumber: 231,
+                                    lineNumber: 233,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"]("label", {
@@ -351,20 +351,20 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange })=>{
                                             className: "mr-2"
                                         }, void 0, false, {
                                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                                            lineNumber: 263,
+                                            lineNumber: 265,
                                             columnNumber: 17
                                         }, this),
                                         t("subscribe.promotional")
                                     ]
                                 }, void 0, true, {
                                     fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                                    lineNumber: 258,
+                                    lineNumber: 260,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                            lineNumber: 230,
+                            lineNumber: 232,
                             columnNumber: 13
                         }, this),
                         /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"]("button", {
@@ -374,7 +374,7 @@ const RegistrationModal = ({ ipDataCode, modalState, onUserKeywordChange })=>{
                             children: t("Registration")
                         }, void 0, false, {
                             fileName: "<[project]/components/RegistrationModal/RegistrationModal.jsx>",
-                            lineNumber: 273,
+                            lineNumber: 275,
                             columnNumber: 13
                         }, this)
                     ]

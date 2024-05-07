@@ -1226,7 +1226,7 @@ const TheFooter = ()=>{
                                 /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"]("div", {
                                     className: "all-menu",
                                     children: /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                        href: `/terms`,
+                                        href: `/terms-and-conditions`,
                                         children: t("terms")
                                     }, void 0, false, {
                                         fileName: "<[project]/components/TheFooter.tsx>",
@@ -1354,7 +1354,7 @@ function RootLayout({ children }) {
                 /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$script$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                     id: "google-tag-manager",
                     strategy: "afterInteractive",
-                    src: "https://www.googletagmanager.com/gtag/js?id=G-6R57VFFHHS",
+                    src: "https://www.googletagmanager.com/gtag/js?id=G-FG7BJ32FSB",
                     async: true
                 }, void 0, false, {
                     fileName: "<[project]/app/layout.tsx>",
@@ -1369,7 +1369,7 @@ function RootLayout({ children }) {
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-6R57VFFHHS');
+              gtag('config', 'G-FG7BJ32FSB');
             `
                     }
                 }, void 0, false, {
@@ -1397,18 +1397,18 @@ function RootLayout({ children }) {
           `
                 }, void 0, false, {
                     fileName: "<[project]/app/layout.tsx>",
-                    lineNumber: 43,
+                    lineNumber: 44,
                     columnNumber: 7
                 }, this),
                 /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$TheHeader$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["TheHeader"], {}, void 0, false, {
                     fileName: "<[project]/app/layout.tsx>",
-                    lineNumber: 60,
+                    lineNumber: 61,
                     columnNumber: 9
                 }, this),
                 children,
                 /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$TheFooter$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["TheFooter"], {}, void 0, false, {
                     fileName: "<[project]/app/layout.tsx>",
-                    lineNumber: 64,
+                    lineNumber: 65,
                     columnNumber: 9
                 }, this)
             ]

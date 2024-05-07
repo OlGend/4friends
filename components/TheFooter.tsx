@@ -17,7 +17,7 @@ const TheFooter = () => {
           <div className="top-footer">
             <Image className="logo" src={logo} alt={`${logo}`} loading="lazy" />
             <div className="all-menu">
-              <Link href={`/terms`}>{t("terms")}</Link>
+              <Link href={`/terms-and-conditions`}>{t("terms")}</Link>
             </div>
           </div>
           <div className="center-footer">
